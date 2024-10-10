@@ -28,7 +28,7 @@ export const footerList = [
         title: "More...",
     },
     {
-        id: 1,
+        id: 8,
         title: "2024 X Corp.",
     },
 ]
